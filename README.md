@@ -1,0 +1,1 @@
+This notebook provides a comparison in terms of performance of 1 dimentional convolutional neural networks(CNNs), recurrent neural networks(RNNs) with different context length, long short-term memory (LSTMs) and an LSTM with an attention mechanism in processing and analysing sequential text data.
